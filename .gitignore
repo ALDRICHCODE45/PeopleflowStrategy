@@ -1,0 +1,10 @@
+# Local skill registry cache (Gentle AI / OpenSpec tooling)
+.atl/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
